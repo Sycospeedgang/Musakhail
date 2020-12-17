@@ -1,5 +1,5 @@
 # SYCO
-This Is Facebook Cloning And Useful Tools Purely Codded By Muhammad Hamza.
+This Is Facebook Cloning And Useful Tools Purely Codded By MuSa khail
 <h1>You Can Randomly Clone Facebook Account By This MultiBruteForce Attack</h1>
 #Commands_To_Run_This_Tool
 1-pkg update && pkg upgrade
