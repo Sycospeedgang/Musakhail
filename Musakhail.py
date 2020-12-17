@@ -6,7 +6,7 @@ This Is Facebook Cloning And Useful Tools Purely Codded By Muhammad Hamza.
 2-pkg install python && pkg install python2
 3-pkg install git
 4-git clone https://github.com/Sycospeedgang/Musakhail.git
-5-cd Musa
+5-cd lofer
 6-python2 Musakhail.py
 7-Username:SYCO
 8-Password:SPEEDGANG
